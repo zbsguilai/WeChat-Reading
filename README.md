@@ -6,7 +6,7 @@
 [![Marketplace](https://img.shields.io/visual-studio-marketplace/v/mrcat.wxRead.svg?label=Marketplace&style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=mrcat.wxRead)
 [![Installs](https://img.shields.io/visual-studio-marketplace/i/mrcat.wxRead.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=mrcat.wxRead)
 [![Rating](https://img.shields.io/visual-studio-marketplace/stars/mrcat.wxRead.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=mrcat.wxRead)
-[![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=mrcat.wxRead)
+[![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](https://github.com/zbsguilai/WeChat-Reading/blob/HEAD/LICENSE)
 
 
 </div>
