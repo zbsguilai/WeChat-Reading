@@ -10,7 +10,7 @@
   "categories": [ 
     "Other"
   ], 
-  "keywords": ["微信读书", "读书","微信","读书插件","爱读书","wxRead","wx","在线看书","看书"],
+  "keywords": ["WeChat Reading","微信读书","在线看书","微信", "读书","读书插件","爱读书","wxRead","wx","看书"],
   "publisher": "mrcat",
   "activationEvents": ["*"],
   "main": "./out/extension.js",
