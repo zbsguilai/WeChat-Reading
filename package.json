@@ -2,19 +2,23 @@
   "name": "wxRead",
   "displayName": "WeChat Reading",
   "description": "A plugin that allows WeChat reading in the VS Code editor",
-  "version": "0.0.2",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.80.0"
   },
   "icon": "media/read-icon-light.png",
   "categories": [
     "Other"
-  ], "keywords": ["微信读书",
-    "读书","微信","读书插件","爱读书","wxRead","wx"
-  ],
+  ], 
+  "keywords": ["微信读书", "读书","微信","读书插件","爱读书","wxRead","wx","在线看书","看书"],
   "publisher": "mrcat",
-  "activationEvents": [],
+  "activationEvents": ["*"],
   "main": "./out/extension.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zbsguilai/WeChat-Reading.git"
+  },
+  "license": "ISC",
   "contributes": {
     "commands": [
       {

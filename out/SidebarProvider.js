@@ -13,6 +13,7 @@ class ReaderViewProvider {
         this._view.webview.html = this.getHtmlForWebview();
     }
     getHtmlForWebview() {
+        console.log('asdasdasdsadasdasdsa');
         const { scale } = config_1.configState;
         const width = 95 / scale;
         const height = width;
