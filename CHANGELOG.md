@@ -4,10 +4,11 @@ All notable changes to the "WeChat Reading" extension will be documented in this
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## 0.0.6 - 2023-11-7
+## (0.0.6-0.0.7) - 2023-11-7
 
 ### Features 
 - Add a shortcut to the bottom menu "WeChat Reading" to access the plugin homepage
+- Add LICENSE
 
 ## 0.0.5 - 2023-8-21
 ### Upgrade

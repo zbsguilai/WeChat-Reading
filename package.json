@@ -2,7 +2,7 @@
   "name": "wxRead",
   "displayName": "WeChat Reading",
   "description": "A plugin that allows WeChat reading in the VS Code editor",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "engines": {
     "vscode": "^1.80.0"
   },
